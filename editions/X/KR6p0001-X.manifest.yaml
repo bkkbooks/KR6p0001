@@ -1,0 +1,128 @@
+canonical_identifier: bkk:krp/KR6p0001/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0001/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無量壽經會譯
+  identifiers:
+    krp: KR6p0001
+    cbeta: X01n0005
+    cbeta_old_id: X01n0005
+    authorityid: CA0003414
+    json_key: X0005
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0005.xml
+    old_id: X01n0005
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0001_000-X.yaml, hash: 'sha256:0a25b45ea9df2d8d119a416326c2556ff605b1efabf4d26c3f5838c11d77c150'}
+  - {seq: 1, filename: KR6p0001_001-X.yaml, hash: 'sha256:2d5e5a0bc84179a17ad299b22f7ddcf013049292f9cd98b48e56c043b2960155'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0001_000-X.markers.yaml, hash: 'sha256:22f6bb13ec6d33bd5c52ab1658af4a53b2554f12a7c4eda2725422ce262aea1a'}
+  - {seq: 1, role: markers, filename: assets/KR6p0001_001-X.markers.yaml, hash: 'sha256:3059f82a6ad246ed3b0799086177278151d264d460545015563edeaf991ae6a3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0001_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 5-A 原刻淨土四經敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0001_X_000-mulu-2
+    span:
+    - front
+    - 218
+    - 218
+  label: No. 5-B 淨土四經總敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0001_X_000-mulu-3
+    span:
+    - front
+    - 1023
+    - 1023
+  label: 無量壽經會譯敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0001_X_000-mulu-4
+    span:
+    - front
+    - 1765
+    - 1765
+  label: 無量壽經會譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0001_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10931
+  label: 無量壽經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0001_X_001-mulu-1
+    span:
+    - body
+    - 8700
+    - 8700
+  label: 附文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0001_X_001-mulu-2
+    span:
+    - body
+    - 8700
+    - 8700
+  label: 觀無量經敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0001_X_001-mulu-3
+    span:
+    - body
+    - 9459
+    - 9459
+  label: 阿彌陀經敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0001_X_001-mulu-4
+    span:
+    - body
+    - 10179
+    - 10179
+  label: 普賢行願品敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0001_X_001-mulu-5
+    span:
+    - body
+    - 10551
+    - 10551
+  label: No. 5-C 重刊淨土四經䟦
+  type: mulu
+  level: 1
+hash: sha256:b04e61240fab15d1ed98af6212253209c895af44665b4a6a1d137eeabdf117bd
