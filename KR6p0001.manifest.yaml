@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0001_000.yaml, hash: 'sha256:06613d298e3540f14212402db0c053fc5cdc8aa528ad5def73e4269f138f9afe'}
+  - {seq: 0, filename: KR6p0001_000.yaml, hash: 'sha256:788994e65953489bc8e1f3744aa028baa38bb543f0cd92750295df39905f9ed1'}
   - {seq: 1, filename: KR6p0001_001.yaml, hash: 'sha256:2817aa16a3cdf42bec84059fb1ee89e8d171dba13e7b310af2e8cbe9a71a1ab6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0001_000.markers.yaml, hash: 'sha256:c388f285b180637f91aff9706ba510d6fd46203cc74efb5ab15fe651188a3ac5'}
+  - {seq: 0, role: markers, filename: assets/KR6p0001_000.markers.yaml, hash: 'sha256:9e873ebc237661b8cd20ee0817fd95eac89f45e9bd3fce7a8535d1e438a765a5'}
   - {seq: 1, role: markers, filename: assets/KR6p0001_001.markers.yaml, hash: 'sha256:9fd869ff655775ca2608a11d86cddbe1f31197ab28cb8806e0303cb0e57e82ff'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0001_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 5-A 原刻淨土四經敘
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0001_X_000-mulu-2
     span:
-    - front
+    - body
     - 218
     - 218
   label: No. 5-B 淨土四經總敘
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0001_X_000-mulu-3
     span:
-    - front
+    - body
     - 1023
     - 1023
   label: 無量壽經會譯敘
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0001_X_000-mulu-4
     span:
-    - front
+    - body
     - 1765
     - 1765
   label: 無量壽經會譯
@@ -127,7 +127,7 @@ table_of_contents:
   label: No. 5-C 重刊淨土四經䟦
   type: mulu
   level: 1
-hash: sha256:2f1adf6dbdef6a68e72ccd4c44af77f9546bf1896fb6db09bf8946ad6d167ac1
+hash: sha256:d520881efde9c4f0685746da3b9514d67f554304a5ed0576b989a5470776aa68
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
